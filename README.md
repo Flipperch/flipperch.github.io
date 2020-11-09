@@ -1,4 +1,8 @@
 # flipperch.github.io
-Meu portifólio
+
+Retomando...
+
+obs.:
+melhorar portifólio =)
 
 link: https://flipperch.github.io/
